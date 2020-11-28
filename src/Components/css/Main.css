@@ -1,0 +1,15 @@
+.Person {
+    text-align: justify;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 15px;
+    }
+    .btn  {
+        margin:0px;
+        cursor: all-scroll;
+    }
+    .Name {
+        text-align: center 
+    }
+    
